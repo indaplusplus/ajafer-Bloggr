@@ -1,0 +1,54 @@
+{
+  "PostComments" : {
+    "-Ky0EREjav53lhAqbqrK" : {
+      "-Ky0EVGP09Ac1xpZX-Jp" : {
+        "Comment" : "A new comment",
+        "Name" : "Bobby"
+      },
+      "-Ky0EfPB2dlhwbdqwHqU" : {
+        "Comment" : "Another comment ",
+        "Name" : "Bobby"
+      }
+    },
+    "-Ky0E_2QbgIeFyIcifee" : {
+      "-Ky0FHpnmMteb8pLI05y" : {
+        "Comment" : "Fuck your Blog\n",
+        "Name" : "Tim Cook"
+      }
+    }
+  },
+  "Posts" : {
+    "-Ky0EREjav53lhAqbqrK" : {
+      "Author" : "VU6QqIJs9pf39X4nv10Ej0zLytb2",
+      "Name" : "Bobby",
+      "Text" : "Hello world! "
+    },
+    "-Ky0E_2QbgIeFyIcifee" : {
+      "Author" : "VU6QqIJs9pf39X4nv10Ej0zLytb2",
+      "Name" : "Bobby",
+      "Text" : "Another post for my new awesome blog"
+    },
+    "-Ky0FE3UU0AnUGB0FLqR" : {
+      "Author" : "ApZeax2kt6htXnmc7gvJyG5pT7b2",
+      "Name" : "Tim Cook",
+      "Text" : "The new iPhone X is here!"
+    }
+  },
+  "UserPosts" : {
+    "ApZeax2kt6htXnmc7gvJyG5pT7b2" : {
+      "-Ky0FE3UU0AnUGB0FLqR" : true
+    },
+    "VU6QqIJs9pf39X4nv10Ej0zLytb2" : {
+      "-Ky0EREjav53lhAqbqrK" : true,
+      "-Ky0E_2QbgIeFyIcifee" : true
+    }
+  },
+  "Users" : {
+    "ApZeax2kt6htXnmc7gvJyG5pT7b2" : {
+      "Name" : "Tim Cook"
+    },
+    "VU6QqIJs9pf39X4nv10Ej0zLytb2" : {
+      "Name" : "Bobby"
+    }
+  }
+}
